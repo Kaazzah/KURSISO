@@ -1,4 +1,7 @@
 AD	AND	020	AN	Andorra	Andorra la Vella	468.0	77,006	EU
+
+
+sdasd
 AE	ARE	784	AE	United Arab Emirates	Abu Dhabi	82,880.0	9,630,959	AS
 AF	AFG	004	AF	Afghanistan	Kabul	647,500.0	37,172,386	AS
 AG	ATG	028	AC	Antigua and Barbuda	St. John's	443.0	96,286	NA
