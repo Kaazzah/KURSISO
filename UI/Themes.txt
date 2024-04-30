@@ -1,0 +1,12 @@
+| Стиль текста - <Noto Sans Mono> - 14 - 21 px | Стиль курсора - вид курсора <underline> | Стиль темы - <native dark>| ссылка на css темы - https://blindtyping.com/themes/native_dark.css |
+.css 
+:root {
+  --background1000: #22272e;
+  --background500: #272e35;
+  --background250: #6d7887;
+  --background-dominant1: #4895ef;
+  --background-dominant2: #cbd0df;
+  --warning: #ef6c75;
+}
+
+DOBAVIT SIRIFT
