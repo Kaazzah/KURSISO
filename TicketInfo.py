@@ -562,7 +562,7 @@ class Ui_TicketInfo(object):
         self.Line_Where_From_On_2.setText(QCoreApplication.translate("TicketInfo", u"\u041e\u0442\u043a\u0443\u0434\u0430:", None))
         self.Line_Where_From_On_2.setPlaceholderText("")
         self.labelWhere_2.setText("")
-        self.Line_What_Time_2.setText(QCoreApplication.translate("TicketInfo", u"\u0412\u0440\u0435\u043c\u044f \u043f\u0430\u0441\u0430\u0434\u043a\u0438:", None))
+        self.Line_What_Time_2.setText(QCoreApplication.translate("TicketInfo", u"\u0412\u0440\u0435\u043c\u044f \u043f\u043e\u0441\u0430\u0434\u043a\u0438:", None))
         self.Line_What_Time_2.setPlaceholderText("")
         self.label_6.setText("")
         self.NoneLine1_2.setText("")

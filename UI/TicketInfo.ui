@@ -756,7 +756,7 @@ border: 2px solid white;
 </string>
    </property>
    <property name="text">
-    <string>Время пасадки:</string>
+    <string>Время посадки:</string>
    </property>
    <property name="alignment">
     <set>Qt::AlignmentFlag::AlignCenter</set>
